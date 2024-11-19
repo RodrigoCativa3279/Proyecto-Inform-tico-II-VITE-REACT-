@@ -1,0 +1,85 @@
+h1 {
+  margin: 0;
+  text-align: center;
+  font-size: 3.2em;
+  line-height: 3;
+}
+
+.descripcion {
+  font-size: 16px;
+  color: #555;
+  text-align: center;
+  margin: 0;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+
+.linea-divisora {
+  border: 0;
+  height: 2px;
+  background-color: #e0e0e0;
+  margin: 20px auto; 
+  width: 80%; 
+}
+
+.contenido {
+  display: flex; 
+  align-items: flex-start;
+  margin-top: 30px; 
+}
+
+.informacion {
+  flex: 1;
+  margin-right: 400px; 
+  padding: 0 20px;    
+}
+
+
+.introduccion {
+  margin: 20px 0;
+  padding: 10px;
+  background-color: #f9f9f9; 
+  border-left: 4px solid #ccc; 
+  text-indent: 30px; 
+  line-height: 1.5; 
+}
+
+.blog-body_toc {
+  width: 25%; 
+  max-width: 300px; 
+  margin-right: 20px; 
+  position: sticky;
+  top: 10px; 
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 4px 12px #e0e0e0;
+}
+
+.blog-body_toc_title {
+  letter-spacing: .4px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+
+.capa {
+  margin-bottom: 40px;
+}
+
+.capa h2 {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.capa p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+
+
